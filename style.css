@@ -3,14 +3,19 @@ body{
 	background-color: seashell;
  	font-family: Georgia, serif;
  	color: darkslategray;
- 	padding: 20px;
+ 	padding: 20px; 
 
+.objective{
+	margin-top:95px;
 }
 
+.carouseltop {
+	margin:auto;
+}
 #carotop {
-	background-color:bisque;
-	padding: 20px;
+	background-color:bisque; 
 }
+
 .center{
 	display:block;
 	margin-left: auto;
