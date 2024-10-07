@@ -1,0 +1,68 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body{
+	background-color: seashell;
+ 	font-family: Georgia, serif;
+ 	color: darkslategray;
+ 	padding: 20px; 
+
+.objective{
+	margin-top:95px;
+}
+
+.carouseltop {
+	margin:auto;
+}
+#carotop {
+	background-color:bisque; 
+}
+
+.center{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+#contact {
+	color: saddlebrown;
+	font-size: 20px;
+}
+
+
+#objective p {
+	text-align: center;
+} 
+
+ul {
+  list-style-image: url('heart bp.png');
+}
+
+h1{ 
+  	color:navy;
+  	font-size: 35px;
+  	font-family: "Garamond", "Garamond", monospace;
+
+}
+
+h2, h3{
+	color: navy;
+	font-size: 25px;
+	font-family: "Garamond", "Garamond", monospace;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer{
+	height: 200px;
+	background-image: url('sloths hugging.jpg');
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: hotpink;
+}
+
